@@ -112,12 +112,10 @@ font-size: 2rem;
 .Dentity {
     font-size: 1.2rem;
     color: white;
-    transform: translateY(110px);
 }
 .business {
     font-size: 1.2rem;
     color: #00ADB5;
-    transform: translateY(125px);
 }
 .abouttext {
     font-size: 1.2rem;
@@ -126,13 +124,11 @@ font-size: 2rem;
 .light {
     display: flex;
     position: absolute;
-    right: 40px;
-    right: 280px;
-    top: 1700px;
+    top: 1435px;
     align-items: center;
     gap: 12px;
-    margin-bottom: 30px;
     margin-left: 120px;
+    margin-bottom: 220px;
 }
 .aboutme {
     display: flex;
